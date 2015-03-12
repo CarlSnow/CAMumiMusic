@@ -1,0 +1,14 @@
+F:\360云盘\MyStudyProject\CAMumiMusic\bin\Debug\MumiMusic.exe.config
+F:\360云盘\MyStudyProject\CAMumiMusic\obj\x86\Debug\Interop.WMPLib.dll
+F:\360云盘\MyStudyProject\CAMumiMusic\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\360云盘\MyStudyProject\CAMumiMusic\obj\x86\Debug\CAMumiMusic.csproj.ResolveComReference.cache
+F:\360云盘\MyStudyProject\CAMumiMusic\obj\x86\Debug\MumiMusic.exe
+F:\360云盘\MyStudyProject\CAMumiMusic\obj\x86\Debug\MumiMusic.pdb
+F:\360云盘\MyStudyProject\CAMumiMusic\bin\Debug\MumiMusic.exe
+F:\360云盘\MyStudyProject\CAMumiMusic\bin\Debug\MumiMusic.pdb
+F:\360云盘\MyStudyProject\CAMumiMusic\bin\Debug\Interop.WMPLib.dll
+F:\360云盘\MyStudyProject\CAMumiMusic\bin\Debug\AxInterop.WMPLib.dll
+F:\360云盘\MyStudyProject\CAMumiMusic\obj\x86\Debug\CAMumiMusic.csprojResolveAssemblyReference.cache
+F:\360云盘\MyStudyProject\CAMumiMusic\obj\x86\Debug\MumiMusic.Form1.resources
+F:\360云盘\MyStudyProject\CAMumiMusic\obj\x86\Debug\MumiMusic.Properties.Resources.resources
+F:\360云盘\MyStudyProject\CAMumiMusic\obj\x86\Debug\CAMumiMusic.csproj.GenerateResource.Cache
